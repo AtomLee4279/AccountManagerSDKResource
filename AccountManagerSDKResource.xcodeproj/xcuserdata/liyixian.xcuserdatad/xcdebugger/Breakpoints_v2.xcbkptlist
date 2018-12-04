@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AccountManagerSDKResource/ViewController/GuidViewController.m"
+            timestampString = "565611295.513869"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "-presentLoginViewController"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AccountManagerSDKResource/ViewController/GuidViewController.m"
+            timestampString = "565611464.081238"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "-checkHaveLogin:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AccountManagerSDKResource/ViewController/GuidViewController.m"
+            timestampString = "565611705.70005"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "-checkHaveLogin:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GuidViewController checkHaveLogin:]"
+                  moduleName = "AccountManagerSDKResource"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liyixian/Downloads/LoginManagerSDKSimpleDemo-master/AccountManagerSDKResource/AccountManagerSDKResource/ViewController/GuidViewController.m"
+                  timestampString = "565611706.248631"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__37-[GuidViewController checkHaveLogin:]_block_invoke"
+                  moduleName = "AccountManagerSDKResource"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liyixian/Downloads/LoginManagerSDKSimpleDemo-master/AccountManagerSDKResource/AccountManagerSDKResource/ViewController/GuidViewController.m"
+                  timestampString = "565611706.250223"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_"
+                  moduleName = "AccountManagerSDKResource"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liyixian/Downloads/LoginManagerSDKSimpleDemo-master/AccountManagerSDKResource/AccountManagerSDKResource/ViewController/GuidViewController.m"
+                  timestampString = "565611706.251737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__37-[GuidViewController checkHaveLogin:]_block_invoke.7"
+                  moduleName = "AccountManagerSDKResource"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liyixian/Downloads/LoginManagerSDKSimpleDemo-master/AccountManagerSDKResource/AccountManagerSDKResource/ViewController/GuidViewController.m"
+                  timestampString = "565611706.253234"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.11"
+                  moduleName = "AccountManagerSDKResource"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liyixian/Downloads/LoginManagerSDKSimpleDemo-master/AccountManagerSDKResource/AccountManagerSDKResource/ViewController/GuidViewController.m"
+                  timestampString = "565611706.254727"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
